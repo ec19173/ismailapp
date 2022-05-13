@@ -48,12 +48,6 @@ class _CategoryBorrowScreenState extends State<CategoryBorrowScreen> {
       buildDefaultAppBar: buildAppBar,
       setState: setState,
       onSubmitted: onSubmitted,
-      // onCleared: () {
-      //   print(">>>>>>>>>>>>>>>>>>>>Search bar has been cleared");
-      // },
-      // onClosed: () {
-      //   print(">>>>>>>>>>>>>>>>>>>>Search bar has been closed");
-      // },
     );
   }
 

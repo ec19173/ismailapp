@@ -4,6 +4,8 @@ import 'package:ismailapp/reusable_widgets/reusable_widget.dart';
 import 'package:ismailapp/screens/home_screen.dart';
 import 'package:ismailapp/utils/color_utils.dart';
 import 'package:flutter/material.dart';
+import 'package:ismailapp/screens/dashboard/Dashboard.dart';
+
 
 class SignUpScreen extends StatefulWidget {
   const SignUpScreen({Key? key}) : super(key: key);
@@ -79,7 +81,7 @@ class _SignUpScreenState extends State<SignUpScreen> {
                     Navigator.push(
                         context,
                         MaterialPageRoute(
-                            builder: (context) => const HomeScreen()));
+                            builder: (context) => const DashboardScreen()));
                   }).onError((error, stackTrace) {
                     print("Error ${error.toString()}");
                   });

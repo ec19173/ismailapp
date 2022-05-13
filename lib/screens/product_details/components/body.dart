@@ -12,7 +12,7 @@ class Body extends StatelessWidget {
   final Product product;
 
   const Body({Key? key, required this.product}) : super(key: key);
-
+  //Borrowing Logic
   @override
   Widget build(BuildContext context) {
     return ListView(
