@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "731797319798",
+    "project_id": "renteverything-77916",
+    "storage_bucket": "renteverything-77916.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731797319798:android:112e8cf6ebce2f356daf57",
+        "android_client_info": {
+          "package_name": "com.example.ismailapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731797319798-vhe3sq2nq8ms25l2qmb35n87lalujbts.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rent_everything",
+            "certificate_hash": "cc2f34cf763730339847d2ec5785827ca232d2d2"
+          }
+        },
+        {
+          "client_id": "731797319798-jgk4rqnhi481j63994qaej0p304898jg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAUuuLNy5NqVEc_iK-PmiWySR6zNJ0Uts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731797319798-jgk4rqnhi481j63994qaej0p304898jg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
